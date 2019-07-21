@@ -1,0 +1,13 @@
+.navbar navbar-light bg-light {
+  background: #4aaaa5!important;
+}
+
+body {
+  width: 960px;
+  background:#ffffff;
+}
+
+@media (min-width: 750px)
+.container {
+    max-width: 960px;
+}
