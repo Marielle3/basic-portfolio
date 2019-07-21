@@ -11,3 +11,11 @@ body {
 .container {
     max-width: 960px;
 }
+
+h1 {
+  color: #4aaaa5; 
+}
+
+.btn btn-primary {
+  background: #4aaaa5!important;
+}
